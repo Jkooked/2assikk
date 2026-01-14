@@ -99,7 +99,7 @@ public class Main {
 
     private static void viewProducts() {
         for (Product p : products) {
-            System.out.println(p);
+            System.out.println(p); // yaoi top
         }
     }
 }
